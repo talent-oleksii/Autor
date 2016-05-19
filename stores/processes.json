@@ -1,0 +1,7 @@
+{
+  "logs": "./logs",
+  "pids": "./pids",
+  "processes": {
+    "node1": "node ./app.js",
+  }
+}
